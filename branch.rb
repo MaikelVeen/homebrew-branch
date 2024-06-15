@@ -4,8 +4,8 @@
 class Branch < Formula
     desc "Branch is a small CLI tool to automatically create git branches based on tickets"
     homepage "https://github.com/MaikelVeen/branch"
-    url "https://github.com/MaikelVeen/branch/archive/refs/tags/v0.0.2.tar.gz"
-    sha256 "86f2dfe1a7f4063187a2189ba0af86fefb40e011db4b5777bf77c4111badbeca"
+    url "https://github.com/MaikelVeen/branch/archive/refs/tags/v0.3.0.tar.gz"
+    sha256 "0765eb2bfb7b6be0d5ae09f4b17ce9adaa9b823de2c71dcc0ae81e906e55ea88"
     license "MIT"
 
     # depends_on "cmake" => :build
